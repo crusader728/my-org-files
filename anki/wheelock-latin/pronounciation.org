@@ -1,0 +1,107 @@
+* Item                                                                :vowel:
+:PROPERTIES:
+:ANKI_DECK: Wheelock Latin
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672809331456
+:END:
+** Front
+long vowels
+
+** Back
+| Long              |
+|-------------------|
+| ā as in /father/  |
+| ē as in /they/    |
+| ī as in /machine/ |
+| ō as in /clover/  |
+| ū as in /rude/    |
+
+
+
+
+
+* Item                                                                :vowel:
+:PROPERTIES:
+:ANKI_DECK: Wheelock Latin
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672810091773
+:END:
+** Front
+short vowels
+** Back
+| Short           |
+|-----------------|
+| a as in /Dinah/ |
+| e as in /pet/   |
+| i as in /pin/   |
+| o as in /orb/   |
+| u as in /put/   |
+
+
+* Item                                                            :diphthong:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672810479584
+:END:
+** Front
+diphthongs
+** Back
+| diphthongs                                                            |
+|-----------------------------------------------------------------------|
+| ae as /ai/ in /aisle/                                                 |
+| au as /ou/ in /house/                                                 |
+| ei as in /reign/                                                      |
+| eu as Latin *e* + *u*, pronounced rapidly                             |
+| oe as /oi/ in /oil/                                                   |
+| ui as in *u* + *i*, only in *huius*, *cuius*, *huic*, *cui* and *hui* |
+
+
+* Item                                                            :consonant:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672811273129
+:END:
+** Front
+bs, bt and b
+** Back
+pronounced as /ps/ and /pt/, otherwise *b* has the same pronounciation as in English
+
+* Item                                                            :consonant:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672811539258
+:END:
+** Front
+c
+** Back
+always as hard as in /can/
+
+* Item                                                            :consonant:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672811989133
+:END:
+** Front
+g
+** Back
+always as hard as in /get/
+
+
+
+* Item                                                            :consonant:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672812024340
+:END:
+** Front
+h
+** Back
+a breathing sound, less harshly pronounced than it is in English
+
+
+
+
+
+
+
+
