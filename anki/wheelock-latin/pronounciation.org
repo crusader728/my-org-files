@@ -20,7 +20,7 @@ long vowels
 
 
 
-* Item                                                                :vowel:
+* Item                                                 :vowel:pronounciation:
 :PROPERTIES:
 :ANKI_DECK: Wheelock Latin
 :ANKI_NOTE_TYPE: Basic
@@ -38,7 +38,7 @@ short vowels
 | u as in /put/   |
 
 
-* Item                                                            :diphthong:
+* Item                                             :diphthong:pronounciation:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1672810479584
@@ -56,52 +56,171 @@ diphthongs
 | ui as in *u* + *i*, only in *huius*, *cuius*, *huic*, *cui* and *hui* |
 
 
-* Item                                                            :consonant:
+* Item                                             :consonant:pronounciation:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1672811273129
 :END:
 ** Front
-bs, bt and b
+pronounciation of bs, bt and b
 ** Back
 pronounced as /ps/ and /pt/, otherwise *b* has the same pronounciation as in English
 
-* Item                                                            :consonant:
+* Item                                             :consonant:pronounciation:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1672811539258
 :END:
 ** Front
-c
+pronounciation of consonant c
 ** Back
 always as hard as in /can/
 
-* Item                                                            :consonant:
+* Item                                             :consonant:pronounciation:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1672811989133
 :END:
 ** Front
-g
+pronounciation of consonant g
 ** Back
 always as hard as in /get/
 
 
 
-* Item                                                            :consonant:
+* Item                                             :consonant:pronounciation:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1672812024340
 :END:
 ** Front
-h
+pronounciation of consonant h
 ** Back
 a breathing sound, less harshly pronounced than it is in English
 
+* Item                                             :consonant:pronounciation:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672865131004
+:END:
+** Front
+consonant /i/ before a vowel at the beginning of a word
+** Back
+sound of /y/ as in /yes/
+
+* Item                                             :consonant:pronounciation:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672865595820
+:END:
+** Front
+consonant /i/ between two vowels
+** Back
+double capacity
+- as the vowel /i/ forming diphtong with the preceding vowel
+- as the consonant /y/
+
+* Item                                             :consonant:pronounciation:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672865868327
+:END:
+** Front
+pronounciation of /m/
+** Back
+- the sound of it in English, with lip closed
+- certain instances of final /m/ following a vowel, producing a nasalization of the vowel
+  
+* Item                                             :consonant:pronounciation:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672865977580
+:END:
+** Front
+pronounciation of /q/
+** Back
+same as in English, always followed by consonantal /u/. The combination of the sound of /kw/.
+
+* Item                                             :consonant:pronounciation:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672866054418
+:END:
+** Front
+pronounciation of /r/
+** Back
+trilled
+
+* Item                                             :consonant:pronounciation:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672866153373
+:END:
+** Front
+pronounciation of /s/
+** Back
+always voiceless as in /see/.
+
+* Item                                             :consonant:pronounciation:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672866227399
+:END:
+** Front
+pronounciation of /t/
+** Back
+always the sound of /t/ as in /tired/
+ 
+
+* Item                                             :consonant:pronounciation:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672866311164
+:END:
+
+** Front
+pronounciation of /v/
+** Back
+the sound of /w/ in English
+
+* Item                                             :consonant:pronounciation:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672866426182
+:END:
+** Front
+pronounciation of /x/
+** Back
+the sound of /ks/ in /axle/
+
+* Item                                             :consonant:pronounciation:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672866506646
+:END:
+** Front
+pronounciation of /ch/
+** Back
+the sound of /ckh/ as in /block head/
+
+* Item                                             :consonant:pronounciation:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672866754774
+:END:
+** Front
+pronounciation of /ph/
+** Back
+the sound of /ph/ in /uphill/
 
 
+* Item                                             :consonant:pronounciation:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1672866823079
+:END:
 
-
-
-
-
+** Front
+pronounciation of /th/
+** Back
+the sound of /th/ as in /hot house/
