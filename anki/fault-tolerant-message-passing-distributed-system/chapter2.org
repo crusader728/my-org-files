@@ -1,0 +1,8 @@
+* Item                                                    :distributedsystem:
+:PROPERTIES:
+:ANKI_DECK: fault-tolerant-message-passing-distributed-systems
+:ANKI_NOTE_TYPE: Basic
+:END:
+** Front
+
+** Back
