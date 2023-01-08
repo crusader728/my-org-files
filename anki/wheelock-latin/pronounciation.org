@@ -224,3 +224,91 @@ the sound of /ph/ in /uphill/
 pronounciation of /th/
 ** Back
 the sound of /th/ as in /hot house/
+* Item                                                       :pronounciation:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673155531260
+:END:
+** Front
+how to pronounce r
+** Back
+
+1. do not trill if it's single r (*virum*)
+2. trill if it's double r (*nārret*)
+3. trill if a single r before a consonant (*servus*)
+4. trill if r is in the beginning of a sentence (*Rōma in Italiā est*)
+5. do not trill if a vowel comes before an initial r
+6. trill when r is the last letter in a sentence
+7. trill if a word begins with a consonant is after the r
+8. do not trill if a word begins with a vowel is after the r
+
+* Item                                                      :syllables:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673153239984
+:END:
+** Front
+how many syllables in a Latin word?
+** Back
+As many syllables as it has vowels and dipthongs
+
+* Item                                                      :syllables:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673153568609
+:END:
+** Front
+Syllabification rules?
+** Back
+1. two contiguous vowels or a vowel and a diphthong are separated
+2. a single consonant between two vowels goes with the second vowel
+3. when two or more consonants stands between two vowels
+   1. generally only the last consonant goes with the second vowel
+   2. however, a stop (*p*, *b*, *t*, *d*, *c*, *g*) + a liquid (*l*, *r*) count as a single consonant and goes with the second vowel
+   3. *qu*, *ch*, *th*, *ph* also count as single consonants
+
+* Item                                                      :syllables:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673153746483
+:END:
+** Front
+long by nature syllable
+** Back
+A syllable is long by nature if it contains a long vowel or a diphthong
+
+* Item                                                            :syllables:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673153881783
+:END:
+** Front
+long by position syllable
+** Back
+if a syllable contains a short vowel followed by
+- two or more consonant or
+- *x*, which is a double consonant (= /ks/)
+
+* Item                                                            :syllables:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673153944783
+:END:
+** Front
+short syllable
+** Back
+if a syllable is not long by nature or long by position, then it's short syllable
+
+
+* Item                                                               :accent:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+
+:END:
+** Front
+stress accent rules
+** Back
+1. in a word of two sylables, accent always falls on the first syllable (*saé-pe*)
+2. in a word of three or more syllables
+   1. the accent falls on the next to last syllable, if that syllable is long (*for-tū-na*)
+   2. otherwise the accent falls on the syllable before that
