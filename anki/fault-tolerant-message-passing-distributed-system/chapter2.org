@@ -243,3 +243,94 @@ Yes.
 Are FIFO-URB and CO-URB one-shot algorithms?
 ** Back
 NO.
+
+* Item                                                                  :URB:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673417303148
+:END:
+** Front
+FIFO-URB message delivery property
+** Back
+If a process fifo-broadcasts $m$ and later fifo-broadcasts $m'$, no process fifo-delivers $m'$ unless it has fifo-delivered $m$.
+
+* Item                                                                  :URB:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673417757319
+:END:
+** Front
+FIFO-broadcast architecture view
+** Back
+[[file:./data/fifo-urb-architecture-view.png]]
+
+* Item                                                                  :URB:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673417971843
+:END:
+** Front
+FIFO-URB algorithm
+** Back
+[[file:./data/fifo-urb-algorithm.png]]
+
+* Item                                                                  :URB:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673418754593
+:END:
+** Front
+Let $M$ be the set of messages, $\hat{M}=(M, \rightarrow_{M})$ be the partial order relation. $m \rightarrow_{M} m'$ if:
+** Back
+- $m$ and $m'$ are co-broadcast by the same process and $m$ is before $m'$, or
+- $m$ has been co-delivered by a process $p_i$ before $p_i$ co-broadcasts $m'$, or
+- there is message $m'' \in M$ such that $m \rightarrow_{M} m''$ and $m'' \rightarrow_{M} m'$.
+
+* Item                                                                  :URB:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673419204796
+:END:
+** Front
+local order
+** Back
+If a process delivers a message $m$ before broadcasting a message $m'$, no process delivers $m'$ unless it has delivered $m$.
+
+
+* Item                                                                  :URB:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673420554847
+:END:
+** Front
+proof sketch of CO is FIFO + local order
+** Back
+- CO -> FIFO + local order
+  follows from its definition
+- FIFO + local order -> CO
+  - condition
+    - two messages: $m$ and $m'$, FIFO and local order satisfied
+    - $m \rightarrow_{M} m'$
+    - process p delivers $m'$
+  - target:
+    - $p$ delivers $m$ before $m'$
+  - sketch
+    - as $m \rightarrow_{M} m'$, there is a finite sequence of messages $m_1 = m$ to $m_k = m'$, that have been broadcast by $q_1,\dots,q_k$.
+    - for all x, we have $m_x \rightarrow_{M} m_{x+1}$.
+    - for any x: one of the following cases holds:
+      - if $q_x = q_{x+1}$ -> FIFO order
+      - if $q_x \neq q_{x+1}$ -> local order
+    - when p delivers $m_k$, it has delivered $m_{k-1}$.
+
+
+* Item                                                                  :URB:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673420973145
+:END:
+** Front
+CO-broadcast algorithm on top of URB-broadcast
+** Back
+[[file:./data/urb-based-co-broadcast-in-camp-emptyset.png]]
+
+
