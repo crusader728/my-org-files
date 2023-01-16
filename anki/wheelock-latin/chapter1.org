@@ -68,7 +68,7 @@ personal endings for *active* voice
 | plural   | 2nd person | *-tis*          |
 | plural   | 3rd person | *-nt*           |
 
-* Item                                                                 :verb:
+* Item                                                       :1stconjugation:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1673509146790
@@ -85,7 +85,7 @@ personal endings for *active* voice
 | plural   | 2st person | *laudātis* |
 | plural   | 3rd person | *laúdant*  |
 
-* Item                                                                 :verb:
+* Item                                            :present_indicative_active:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
 :ANKI_NOTE_ID: 1673509275435
@@ -95,9 +95,10 @@ only present active indicative forms
 ** Back
 simple or progressive or emphatic translations are possible, depending on context
 
-* Item                                                                 :verb:
+* Item                                                       :2ndconjugation:
 :PROPERTIES:
 :ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673509556605
 :END:
 ** Front
 2nd conjugation paradigm *monēre*
@@ -110,3 +111,103 @@ simple or progressive or emphatic translations are possible, depending on contex
 | plural   | 1st person | *monēmus* |
 | plural   | 2nd person | *monētis* |
 | plural   | 3rd person | *mónent*  |
+
+* Item                                            :present_active_imperative:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673850313463
+:END:
+** Front
+singular imperative form
+** Back
+identical to the present stem
+
+* Item                                            :present_active_imperative:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673850371487
+:END:
+** Front
+plural imperative form
+** Back
+simply adding *-te* to the stem
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1673851104911
+:END:
+** Front
+*mē*
+** Back
+pronoun, /me, myself/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1673851176411
+:END:
+** Front
+*quid*
+** Back
+pronoun, /what/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1673851249086
+:END:
+** Front
+*níhil*
+** Back
+noun, /nothing/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1673851346311
+:END:
+** Front
+*nōn*
+** Back
+adverb, /not/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1673851346361
+:END:
+** Front
+*saépe*
+** Back
+adverb. /often/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1673851752637
+:END:
+** Front
+*sī*
+** Back
+adverb. /if/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1673852209211
+:END:
+** Front
+*amō, amāre*
+** Back
+verb. /to love, like/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1673853878812
+:END:
+** Front
+*amābō tē*
+** Back
+idiom, /please/ (lit. /I will love you/)
