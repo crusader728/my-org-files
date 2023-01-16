@@ -333,4 +333,94 @@ CO-broadcast algorithm on top of URB-broadcast
 ** Back
 [[file:./data/urb-based-co-broadcast-in-camp-emptyset.png]]
 
+* Item                                                                  :URB:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673763689421
+:END:
+** Front
+CO-broadcast algorithm on top of FIFO-broadcast
+** Back
+[[file:./data/fifo-based-co-broadcast-in-camp-emptyset.png]]
 
+* Item                                                                  :URB:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673764264946
+:END:
+** Front
+Proof of URB-validity of the FIFO-based CO-broadcast algorithm
+** Back
+- $CO-broadcast(m)$ is implemented on top of $FIFO-broadcast(m)$
+- and based on the text of the algorithm
+
+* Item                                                                  :URB:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673764406396
+:END:
+** Front
+Proof of URB-integrity of the FIFO-based CO-broadcast algorithm
+** Back
+- from the test in the algorithm, no message can be delivered more than once before co-delivering an application message
+
+* Item                                                                  :URB:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673766863422
+:END:
+** Front
+Proof of URB-termination of the FIFO-based CO-broadcast algorithm
+** Back
+- when a process $co-broadcast(m)$, it $fifo-broadcast(MSG(seq \bigoplus m))$.
+- when a sequence of messages $MSG(\langle m_1, \dots , m_l \rangle)$ is fifo-delivered, each not delivered $m_x$ is co delivered.
+
+* Item                                                                  :URB:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673824977287
+:END:
+** Front
+claim 1 of proof of the CO-delivery property
+** Back
+A process $p_i$ FIFO-broadcasts $MSG(seq' \bigoplus m')$, and either $m \in seq'$ or $p_i$ previously fifo-broadcast $MSG(seq \bigoplus m)$.
+Then no process co-delivers $m'$ unless it previously co-delivered $m$.
+
+* Item                                                                  :URB:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673825248437
+:END:
+** Front
+The CO-delivery property for the CO-broadcast algorithm
+** Back
+For any two messages $m$ and $m'$ such that $m \rightarrow_M m'$, no process co-delivers $m'$ unless it has previously co-delivered $m_x$.
+
+* Item                                                                  :URB:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673825549587
+:END:
+** Front
+how to prove claim $C1$ of CO-delivery property for the FIFO-based CO-broadcast algorithm?
+** Back
+The proof is by contradiction.
+Assume that, while the assumption of the claim is satified, so process co-delivers $m'$ before $m$.
+Let
+- $\tao$ be the first time instant at which process co-delivers $m'$ without having previously co-delivered $m$
+- $p_j$ be such a process.
+
+* Item                                                                  :URB:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673829142836
+:END:
+** Front
+case 1 of the proof by contradiction of the claim $C1$ of the CO-delivery property for the FIFO-based CO-broadcast algorithm.
+** Back
+$p_j$ fifo-delivered $MSG(seq' \bigoplus m')$.
+- subcase 1: $m \in seq'$.
+- subcase 2: $p_i$ fifo-broadcast $MSG(seq \bigoplus m)$ before $MSG(seq' \bigoplus m')$.
+  it then follows from the FIFO-delivery property that $p_j$ fifo-delivers $MSG(seq \bigoplus m)$ before $MSG(seq' \bigoplus m')$.
+from the text, whatever the sub-case, $p_j$ co-delivers $m$ before $m'$.
+Thus, we have contradiction.

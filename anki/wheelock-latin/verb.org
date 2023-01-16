@@ -1,0 +1,112 @@
+* Item                                                                 :verb:
+:PROPERTIES:
+:ANKI_DECK: Wheelock Latin
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673505788136
+:END:
+** Front
+five characteristics for verbs in Latin
+** Back
+- PERSON
+- NUMBER
+- TENSE
+- MOOD
+- VOICE
+
+* Item                                                                 :verb:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673505905730
+:END:
+** Front
+tenses in Latin
+** Back
+- present
+- future
+- imperfect
+- perfect
+- future perfect
+- pluperfect (or past perfect)
+
+* Item                                                                 :verb:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673505978078
+:END:
+** Front
+mood in Latin
+** Back
+- indicative
+- imperative
+- subjunctive
+
+* Item                                                                 :verb:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673507253935
+:END:
+** Front
+voice in Latin
+** Back
+- active
+- passive
+
+* Item                                                                 :verb:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673507348504
+:END:
+** Front
+personal endings for *active* voice
+** Back
+| number   | person     | personal ending |
+|----------+------------+-----------------|
+| singular | 1st person | *-ō* or *-m*    |
+| singular | 2nd person | *-s*            |
+| singular | 3rd person | *-t*            |
+| plural   | 1st person | *-mus*          |
+| plural   | 2nd person | *-tis*          |
+| plural   | 3rd person | *-nt*           |
+
+* Item                                                                 :verb:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673509146790
+:END:
+** Front
+1st conjugation paradigm *laudāre*
+** Back
+| number   | person     | form       |
+|----------+------------+------------|
+| singular | 1st person | *laúdō*    |
+| singular | 2st person | *laúdās*   |
+| singular | 3rd person | *laúdat*   |
+| plural   | 1st person | *laudāmus* |
+| plural   | 2st person | *laudātis* |
+| plural   | 3rd person | *laúdant*  |
+
+* Item                                                                 :verb:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:ANKI_NOTE_ID: 1673509275435
+:END:
+** Front
+only present active indicative forms
+** Back
+simple or progressive or emphatic translations are possible, depending on context
+
+* Item                                                                 :verb:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+** Front
+2nd conjugation paradigm *monēre*
+** Back
+| number   | person     | form      |
+|----------+------------+-----------|
+| singular | 1st person | *móneō*   |
+| singular | 2nd person | *mónēs*   |
+| singular | 3rd person | *mónet*   |
+| plural   | 1st person | *monēmus* |
+| plural   | 2nd person | *monētis* |
+| plural   | 3rd person | *mónent*  |
