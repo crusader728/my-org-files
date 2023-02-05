@@ -211,3 +211,163 @@ verb. /to love, like/
 *amābō tē*
 ** Back
 idiom, /please/ (lit. /I will love you/)
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1675578245914
+:END:
+** Front
+*cōgitō, cōgitāre*
+** Back
+verb, /to think/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1675578333435
+:END:
+** Front
+*dēbeō, dēbēre*
+** Back
+verb, /to owe, ought, must/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1675578396510
+:END:
+** Front
+*dō, dáre*
+** Back
+verb, /to give, offer/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1675578492611
+:END:
+** Front
+*érrō, erráre*
+** Back
+verb, /to wander; err, make a mistake/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1675578548111
+:END:
+** Front
+*laúdō, laudāre*
+** Back
+verb, /to praise/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1675578646435
+:END:
+** Front
+*móneō, monēre*
+** Back
+verb, /to remind, advise/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1675578894085
+:END:
+** Front
+*sálveō, salvēre*
+** Back
+verb, /to be well, be in good health/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1675579013837
+:END:
+** Front
+*sérvō, servāre*
+** Back
+verb, /to perserve, save, keep, guard/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1675579228960
+:END:
+** Front
+*cōnservō, cōnservāre*
+** Back
+verb, /a stronger form of sérvō/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1675579348961
+:END:
+** Front
+*térreō, terrēre*
+** Back
+verb, /to frighten/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1675579463636
+:END:
+** Front
+*váleō, valēre*
+** Back
+verb, /to be strong, have power/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1675579561361
+:END:
+** Front
+*vídeō, vidēre*
+** Back
+verb, /to see; observe, understand/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1675580008660
+:END:
+** Front
+*vócō, vocāre*
+** Back
+verb, /to call, summon/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1675580008711
+:END:
+** Front
+*festīnō, festīnāre*
+** Back
+verb, /to hasten/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1675580366210
+:END:
+** Front
+*culpō, culpāre*
+** Back
+verb, /to blame/
+
+* Item                                                           :vocabulary:
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic (and reversed card)
+:ANKI_NOTE_ID: 1675580486462
+:END:
+** Front
+*peccō, peccāre*
+** Back
+verb, /to sin/
